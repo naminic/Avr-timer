@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:44F05640
+NODE:I LEVEL:0 LINE:9 "C:\CodeVisionAVR\inc\mega32.h"
+NODE:I LEVEL:0 LINE:10 "C:\CodeVisionAVR\inc\sleep.h"
+NODE:V LEVEL:0 LINE:12 "i -> R4,R5"
+NODE:F LEVEL:0 LINE:15 "timer0_comp_isr(void)"
+NODE:F LEVEL:0 LINE:30 "main(void)"
